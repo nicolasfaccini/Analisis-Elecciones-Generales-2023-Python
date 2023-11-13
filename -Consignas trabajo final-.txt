@@ -1,0 +1,13 @@
+1- Encontrar el número primo número mil. Elaborar una función que, indicando un número por parámetro, devuelva el número primo deseado. Se medirá el rendimiento de la función.
+
+2- Sacar un inside de los resultados electorales nacionales.
+    
+Hacer un informe sobre el resultado electoral de alguno de los candidatos nacionales que pueda posicionar mejor al candidato en cuestión de cara a las elecciones.
+   
+Bajar los datos del recuento parcial y encontrar la cartografía de CABA de los circuitos electorales. Matchear uno con el otro. Habrá puntos extra para quien use la información del Censo.
+    
+Elaborar un doc html o en su defecto un notebook para mostrar los resultados. Usar Git para pushear lo trabajado.
+   
+3- Armar la estructura de la base de datos del Censo. DER. Entregar en una hoja el último día.
+
+4- Generar una muestra en función del Inside construido en el punto 3.
